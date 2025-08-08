@@ -1,7 +1,7 @@
 ## Related Repositories
 
-- [Model API (Python ML)](https://github.com/seyam14/price-prediction-modelApi) — contains `train_model.py`, `app.py`, and model artifacts like `model.pkl`. :contentReference[oaicite:0]{index=0}  
-- [Server (Node.js)](https://github.com/seyam14/price-prediction-server) — includes `server.js`, `package.json`, and necessary server-side logic. :contentReference[oaicite:1]{index=1}
+- [Model API code (Python ML)](https://github.com/seyam14/price-prediction-modelApi) — contains `train_model.py`, `app.py`  
+- [Server code (Node.js)](https://github.com/seyam14/price-prediction-server) — includes `server.js`, `package.json`
 
 ---
 
