@@ -1,7 +1,7 @@
 ## Price Prediction App
 
 A full-stack web application that predicts prices using a machine learning model.  
-The backend is built with Python (Flask), and the frontend is built with React.js.
+The backend is built with Node.js and Python (Flask), and the frontend is built with React.js.
 
 ---
 ## How It Works
@@ -15,8 +15,8 @@ The backend is built with Python (Flask), and the frontend is built with React.j
 
  ## Technologies Used
 
-* **Backend:** Python, Flask, scikit-learn, pandas, numpy
-* **Frontend:** React.js, HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js, Python, Flask, scikit-learn, pandas, numpy
+* **Frontend:** React.js, Tailwindcss, motions
 * **ML:** Regression models (customizable in `model.py`)
 
 ---
